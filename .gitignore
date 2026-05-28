@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+_assets/
+_output/
+~$*.xlsx
+.venv/
+.idea/
+.vscode/
